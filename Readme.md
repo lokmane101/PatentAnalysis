@@ -45,7 +45,7 @@ I want to express my heartfelt gratitude to my professor **EL HADDADI Anass** fo
 ## Visuals
 
 ### Data Sourcing
-![Data Sources](sourcing.png)
+![Data Sources](Sourcing.png)
 
 ### Architecture Diagram
 ![Architecture Diagram](Architecture.png)
